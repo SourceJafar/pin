@@ -173,8 +173,8 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="𝖲𝗈𝗇!g .",
-                            url=f"https://t.me/VVYVV6")
+                            text="⌁ : ProX TEaM .",
+                            url=f"https://t.me/prox_team")
 
                 ]
             ]
@@ -212,8 +212,8 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text=" 𝖲𝗈𝗇!g .",
-                            url=f"https://t.me/VVYVV6")
+                            text=" ⌁ : ProX TEaM .",
+                            url=f"https://t.me/prox_team")
 
                 ]
             ]
@@ -228,8 +228,8 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text=" 𝖲𝗈𝗇!g .",
-                            url=f"https://t.me/rr8r9")
+                            text=" ⌁ : ProX TEaM .",
+                            url=f"https://t.me/prox_team")
 
                 ]
             ]
@@ -281,8 +281,8 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text=" 𝖲𝗈𝗇!g .",
-                            url=f"https://t.me/VVYVV6")
+                            text=" ⌁ : ProX TEaM .",
+                            url=f"https://t.me/prox_team")
 
                 ]
             ]
@@ -324,7 +324,7 @@ async def play(_, message: Message):
             caption="**تم حبي ذۅقك حݪۅ بـ اެݪاެغاެني ۅهاެي شغݪتهاެ تدݪݪ ❤️‍🔥.**".format(),
            )
 
-    os.remove("https://te.legra.ph/file/407ce4c57a645c11f65c0.png")
+    os.remove("https://te.legra.ph/file/3217763092e20ddadd607.jpg")
     return await lel.delete()
     
     
@@ -408,6 +408,6 @@ async def admincache(client, message: Message):
     )
 
     await message.reply_photo(
-                              photo="https://te.legra.ph/file/08cec0a2a844713e1624a.jpg",
+                              photo="https://te.legra.ph/file/3217763092e20ddadd607.jpg",
                               caption="**تم تحديث اެݪسۅࢪس ياެمطۅࢪي ❤️‍🔥.**"
     )

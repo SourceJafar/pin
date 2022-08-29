@@ -33,7 +33,7 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/5fdd8da2461c05d893189.jpg",
+        photo=f"https://te.legra.ph/file/3217763092e20ddadd607.jpg",
         caption=f"""**هݪاެ حيݪي 🤎.
 
 اެناެ بۅت اެغاني ، بدۅن مقدماެت ضيفني ࢪاެح اެعجبك 🤎.**""",
@@ -41,7 +41,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " 𝗌𝗈!𝗇g .", url=f"https://t.me/vvyvv6")
+                        " ⌁ : ProX TEaM .", url=f"https://t.me/prox_team")
                 ]
                 
            ]
@@ -52,13 +52,13 @@ async def start_(client: Client, message: Message):
 @Client.on_message(commandpro(["/start", "/alive", "aditya"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/6111837a4b2586e21e96c.jpg",
+        photo=f"https://te.legra.ph/file/3217763092e20ddadd607.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "البوت يعمل بنجاح 👍🏻.", url=f"https://t.me/xl444")
+                        "⌁ : ProX TEaM .", url=f"https://t.me/prox_team")
                 ]
             ]
         ),
@@ -68,13 +68,13 @@ async def start(client: Client, message: Message):
 @Client.on_message(commandpro(["السورس", "source"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://te.legra.ph/file/6111837a4b2586e21e96c.jpg",
+        photo=f"https://te.legra.ph/file/3217763092e20ddadd607.jpg",
         caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "مطۅࢪ اެݪسۅࢪس", url=f"https://t.me/RR8R9")
+                        "⌁ : ProX TEaM .", url=f"https://t.me/prox_team")
                 ]
             ]
         ),
